@@ -9,7 +9,7 @@ Based on some detail statistical analysis this application will provide necessar
 
 
 
-## Statistical test done are as follows
+## Statistical test done are as follows : 
 
 - Unique users : Fetch unique users involved in chats.
 - Two way analysis : Analysis is done both on individual user as well as on group level.
@@ -21,7 +21,7 @@ Based on some detail statistical analysis this application will provide necessar
 - Most busy user : Represent a visualization graph of the top 5 user who are the most active in the chat process and their total message contribution in percentage.
 - Word CLoud : Providing a graphical representations of word frequency that give greater prominence to words that appear more frequently in the texting process.
 - Most Common Word Used : Represents the list of most Common words used in the conversation process.
-- Emoji Analysis : Represents all the emojis used in a form of pie chart used in chats.
+- Emoji Analysis : Represents all the emojis used in a form of pie chart used in chats with their usage counts.
   
 ## Tools Used
 
@@ -44,12 +44,13 @@ Live Project Link : https://whatsapp-chat-analyzer-demo.herokuapp.com/
 
 ## Future Work :
 - Using the NLP techniques , will try to find out the sentiments for a selected user.
-- Using more advance streamlit functions to make this web app faster and responsive.
+- Using more advance streamlit functions to make this web app more faster and more responsive.
 - Will be trying to host this application on AWS.
 
 ## Related Usage :
 - Can be used by parents on monthly basis to get their children track records , as this can help parents to get insights of their children quickly.
 - Can be used for personal group analysis.
 - Can be used for tracking the trends invloved by mischievous scammers involved in textual converstions. 
+
 
   
