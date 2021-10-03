@@ -5,7 +5,7 @@ This is a streamlit based Whatsapp chat analysis project.
 
 User is requested to export his/her chat "excluding media" into this application.
 
-Based on some detail statistical analysis this application will provide necessary details of an individual user or group of people texting pattern.
+Based on some detail statistical analysis this application will provide necessary details of an "individual user" or "group of users" texting pattern.
 
 
 
