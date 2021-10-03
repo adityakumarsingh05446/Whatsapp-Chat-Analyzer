@@ -39,7 +39,7 @@ Live Project Link : https://whatsapp-chat-analyzer-demo.herokuapp.com/
 - Export your whatsapp chat "WITHOUT MEDIA" into your local machine.
 - Under Browse File Section -> Upload your whatsapp_chat.txt file
 - Go to - > Show analysis based on users section on web app
-- Either Select : <Overall> OR <Specific_User>
+- Either Select : < Overall > OR < Specific_User >
 - Then select -> Show Analysis
 
 ## Future Work :
