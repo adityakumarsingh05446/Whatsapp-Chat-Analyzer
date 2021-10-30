@@ -53,5 +53,6 @@ Live Project Link : https://whatsapp-chat-analyzer-demo.herokuapp.com/
 - Can be used for tracking the trends invloved by mischievous scammers involved in textual converstions. 
 
 ## Video
-https://user-images.githubusercontent.com/83591758/139528818-9c7708ae-386b-464f-b3ce-7e16781d1cbc.mp4
+https://user-images.githubusercontent.com/83591758/139529208-a7502e57-7af5-4fa5-aa7d-c1cf478da29c.mp4
+
 
